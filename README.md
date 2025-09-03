@@ -1,5 +1,5 @@
 # HR-analytics-dashboard
- 1.PeoplePulse: HR Analytics Dashboard
+1.PeoplePulse: HR Analytics Dashboard
 A dynamic, interactive Power BI dashboard designed to uncover workforce insights—focusing on attrition analysis, employee demographics, job roles, salary distribution, and workforce tenure. This tool enables HR teams to make data-driven decisions for employee retention, resource planning, and organizational growth.
 
 2. The HR Analytics Dashboard is a visually engaging and analytical Power BI report designed to help organizations explore and understand employee data. The dashboard focuses on key workforce metrics such as attrition rate, age distribution, salary bands, education background, and job roles. This tool is intended for use by HR managers, business leaders, and strategists to identify employee turnover patterns, optimize retention strategies, and make data-driven workforce planning decisions.
