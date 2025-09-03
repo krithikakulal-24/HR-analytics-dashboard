@@ -18,10 +18,11 @@ The dashboard was built using the following tools and technologies:
 📁 File Format – .pbix for development and .png for dashboard previews.
 
 4.Data Source:
+
 Source: IBM HR Analytics Employee Attrition & Performance Dataset (available on Kaggle).
 The dataset contains employee-level information such as demographics (age, gender, education), job roles, salaries, years of experience, and attrition details. It provides a structured view of HR records, enabling analysis of workforce trends, employee turnover, and performance-related attributes.
 
-5.Features / Highlights
+5.Features / Highlights:
 
 Business Problem:
 Employee attrition is a major concern for organizations as it increases recruitment costs, disrupts workforce planning, and impacts productivity. HR teams need a clear view of why employees leave and what factors contribute to higher turnover.
