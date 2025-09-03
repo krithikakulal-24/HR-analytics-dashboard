@@ -44,4 +44,5 @@ Highlights that employees in lower salary bands have higher attrition, pointing 
 Provides HR leaders with actionable insights to reduce attrition, optimize employee engagement strategies, and improve retention rates.
 
 6.Screenshots/demos:
+
 Dashboard look like:https://github.com/krithikakulal-24/HR-analytics-dashboard/blob/main/HR-Dashboard.png
